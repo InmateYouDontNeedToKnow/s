@@ -1,0 +1,14 @@
+# Suponha que essa seja a senha a ser descoberta
+senha_correta = "2222"
+
+def tentar_senha(senha):
+    """Função que simula a verificação da senha"""
+    return senha == senha_correta
+
+# Tentar todas as combinações de 0000 a 9999
+for i in range(10000):
+    tentativa = f"{i:04}"  # Garante que terá 4 dígitos com zeros à esquerda
+    print(f"Tentando: {tentativa}")
+    if tentar_senha(tentativa):
+        print(f"Senha descoberta: {tentativa}")
+        break

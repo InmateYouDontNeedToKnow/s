@@ -40,3 +40,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/qwezxc123zz/FreeCheat
 Bike world
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/refs/heads/main/bike%20world", true))()
 ---------------------------------------------------------------------------------------------------------------------------------
+Infinite Yield Admin Script
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+---------------------------------------------------------------------------------------------------------------------------------

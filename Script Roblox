@@ -13,7 +13,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/washingtontrichkid2/N
 Prison Life
 loadstring(game:HttpGet("https://raw.githubusercontent.com/tbao143/thaibao/main/TbaohubPrisonLife"))()
 --------------------------------------------------------------------------------------------------------
-ALL SCRIPTS (Need Key)
+ALL SCRIPTS (Key)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/leenZzZzZ/ScriptHUB/main/Script%20Hub",true))();
 --------------------------------------------------------------------------------------------------------
 Blue Lock Rivais
@@ -42,4 +42,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/ref
 ---------------------------------------------------------------------------------------------------------------------------------
 Infinite Yield Admin Script
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+---------------------------------------------------------------------------------------------------------------------------------
+Scp Roleplay (key)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bodzio21/SCPRP/refs/heads/main/Script"))()
 ---------------------------------------------------------------------------------------------------------------------------------

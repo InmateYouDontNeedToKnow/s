@@ -28,7 +28,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Markklol/aw/refs/head
 Script Azure Lacht
 loadstring(game:HttpGet('https://raw.githubusercontent.com/mokaEZF/Ez/refs/heads/main/aura'))()
 ---------------------------------------------------------------------------------------------------------------------------------
-Script Conter Blox
+Script Counter Blox
 loadstring(game:HttpGet("https://raw.githubusercontent.com/toasty-dev/pissblox/main/solaris_bootstrapper.lua",true))()
 ---------------------------------------------------------------------------------------------------------------------------------
 Script Prison Valley Roleplay

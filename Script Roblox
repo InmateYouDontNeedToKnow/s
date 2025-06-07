@@ -51,3 +51,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadV99/Speed-Hub-X/
 Scp Roleplay (key)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Bodzio21/SCPRP/refs/heads/main/Script"))()
 ---------------------------------------------------------------------------------------------------------------------------------
+Murder Mysteri 2
+loadstring(game:HttpGet('https://raw.githubusercontent.com/vertex-peak/vertex/refs/heads/main/loadstring'))()
+---------------------------------------------------------------------------------------------------------------------------------
+
